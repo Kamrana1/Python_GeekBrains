@@ -1,0 +1,4 @@
+Aliyev 8000
+Mammadov 50000
+Qurbanov 15000
+Qafarov 4000
