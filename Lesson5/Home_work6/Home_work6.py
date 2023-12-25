@@ -27,3 +27,4 @@ except FileNotFoundError:
     print(f"Файл '{file_path}' не найден.")
 except Exception as e:
     print(f"Произошла ошибка: {e}")
+    # asd
